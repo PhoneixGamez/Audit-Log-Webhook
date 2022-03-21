@@ -1,4 +1,4 @@
-# Discord-audit-log-webhook
+# Discord-audit-log-webhook!
 
 **This Repository is for a Discord Bot which creates a Webhook, saves the Webhook in the config.json and then send all guild/member/role changes into a Defined Channel.**
 
@@ -23,8 +23,7 @@
 *MAKE SURE THAT THE BOT HAS ADMIN*
 
 
-# SUPPORT ME
-
+# SUPPORT ME!
 
 **Discord Server:**
 [Jam Squad!](https://discord.gg/Kn29Zd67sn)
