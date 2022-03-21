@@ -1,0 +1,9 @@
+{
+   "token":"Your bot token",
+   "prefix": "Your bot prefix",
+   "loggerChannelID": "Channel Id For Log",
+   "webhook": {
+      "id": "Your webhook id",
+      "token": "Your webhook token"
+   }
+}

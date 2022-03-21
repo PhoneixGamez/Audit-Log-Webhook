@@ -1,0 +1,17 @@
+{
+  "name": "audit-log-webhook",
+  "version": "1.0.0",
+  "description": "this is a webhook discord book!",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord.js": "^12.5.1",
+    "express": "^4.17.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "The Pheonix#7644",
+  "license": "ISC"
+}
